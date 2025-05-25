@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+	<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+	<Version>1.0.0</Version>
+	<Authors>МурзінВ</Authors>
+	<Company>MyCompany</Company>
+	<PackageId>TimePickerControl</PackageId>
+	<Description>Компонент вибору часу для WinForms (години + хвилини)</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="TimePickerControl.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="TimePickerControl.ico" />
+  </ItemGroup>
+
+</Project>
