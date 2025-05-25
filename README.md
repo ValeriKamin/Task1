@@ -92,6 +92,4 @@ ControlLib/bin/Debug/TimePickerControl.1.0.0.nupkg
 ##  Автор
 
 Мурзін В.А., група 611  
-"ХПІ", 2025
-
 ---
