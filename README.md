@@ -66,12 +66,12 @@ timePickerControl1.SelectedTimeChanged += (s, e) =>
 ---
 
 фотографии 
+
 ![image](https://github.com/user-attachments/assets/ee801128-cdcc-4a9f-a00d-494894843fc7)
+
 ![image](https://github.com/user-attachments/assets/e6840f23-204e-4dc0-892b-c277c12b2527)
+
 ![image](https://github.com/user-attachments/assets/208746f1-33d7-4fc0-a61c-81f085ef3319)
-
-
-
 
 
 
