@@ -37,7 +37,7 @@
 
 ---
 
-## 🛠 Використання
+## Використання
 
 ```csharp
 int hour = timePickerControl1.SelectedHour;
